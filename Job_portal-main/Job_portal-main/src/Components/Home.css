@@ -1,0 +1,148 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.logo{
+    color:beige;
+    font-family: var(--gorditas-font);
+    font-weight: bold;
+    font-size: 30px;
+}
+/*.nav-bar{
+    background-color: #00bf58;
+    height:80px;
+    width: 100%;
+}*/
+.me-auto{
+    
+    position:relative;
+    left:400px;
+}
+.link{
+    color:black;
+    text-decoration: none;
+    font-family: var(--gorditas-font);
+    font-size: 20px;
+    border: none;
+    border-radius: 50px;
+    padding:8px 20px;
+    background-color: none;
+}
+.link1{
+    color:black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: var(--gorditas-font);
+    border: none;
+    border-radius: 50px;
+    padding:8px 20px;
+    margin-left: 20px;
+   
+}  
+#basic-nav-dropdown{
+    color:white;
+    font-size: 16px;
+    font-weight: 500;
+}
+#basic-nav-dropdown:hover{
+    color:black;
+}
+
+
+.active{
+    color:white;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: 500;
+    position:relative;
+    top:8px;
+    font-size: 20px;
+}
+.active:hover{
+    color:#00bf58;
+}
+/*.btn{
+    border: none;
+    border-radius: 50px !important;
+    color: black !important;
+    font-size: 18px;
+
+}
+.btn:hover{
+    color: #00bf58;
+}*/
+.ms-auto{
+    margin-right: 50px;
+    
+    background-color: none;
+}
+.background{
+    background-image: url(banner7.jpg);
+    background-size: cover;
+    height:100vh;
+   
+
+}
+.container {
+    max-width: 1200px; /* Adjust as needed */
+    margin: 0 auto; /* Center the container */
+}
+.find{
+    font-family: var(--gorditas-font);
+    color: #fff;
+    font-weight: bold;
+    line-height: 1.15em;
+    letter-spacing: -1px;
+    text-align:center !important;
+    font-size: 80px;
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-top: 0;
+    margin-top: 40px;
+}
+.line{
+    font-size: 17px;
+    line-height: 1.75em;
+    font-family: var(--gorditas-font);
+    color: #fff;
+    text-align:center !important;
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+.formcontrol{
+    height:80px;
+}
+.formcontrol1{
+    height:80px;
+    position:relative;
+    right:25px;
+   
+  
+}
+.form{
+    margin-top: 10px;
+    width:50px;
+    position: relative;
+    left:100px;
+    bottom:50px;
+}
+.sea1{
+    position: relative;
+    left:273px;
+    bottom:100px;
+    height: 80px;
+    width:180px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #00bf58;
+    border:none;
+   
+
+}
+.container{
+    container: fluid 100%;
+}

@@ -1,0 +1,671 @@
+.userlogo{
+    position: relative;
+    left: 500px;
+    top: 25px;
+    height: 45px;
+    width: 45px;
+    cursor: pointer;
+  }
+.menu1{
+    position: relative;
+    left: 1070px;
+    top: -240px;
+    height: 30px;
+    width: 86px;
+    background-color:rgb(77,107,157);
+    box-sizing: border-box;
+    border: 4px solid rgb(77,107,157);
+    border-radius: 3px;   
+    padding: .3px;
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular',
+     'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     cursor: pointer;
+     align-items: center;
+}
+.emp{
+    text-decoration: none;
+    color: aliceblue;
+}   
+.menu2{
+    position: relative;
+    left: 1070px;
+    top: -237px;
+    height: 30px;
+    width: 86px;
+    background-color:rgb(77,107,157);
+    box-sizing: border-box;
+    border: 4px solid rgb(77, 107, 157);
+    border-radius: 3px; 
+    padding: 0.3px;
+    font-size: 18.5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    align-items: center;
+}
+.logoname{
+    position: relative;
+    left: 1066px;
+    top: 1px;
+    height: 30px;
+    width: 86px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  cursor: pointer;
+  align-items: center;
+  font-weight: bolder;
+  color: black;
+}
+*{
+  box-sizing: border-box;
+}
+
+.body{
+  background-image: url('back.png');
+  height: 700px;
+}
+.bar{
+  position: relative;
+  top:60px;
+  left:270px;
+  margin-right: 20px;
+  color: black;
+  text-decoration: none;
+  font-weight:bolder;
+  font-size: medium;
+}
+.bar:hover{
+  background-color:gray;
+  border-radius: 3px;
+  padding: 1px;
+  border: solid gray;
+}
+.bar1{
+  height: 20px;
+  width: 20px;
+
+}
+.job{
+  position: relative;
+  left: 235px;
+  top: -5px;
+  height: 26px;
+  width: 350px;
+  color: black;
+  font-size: x-large;
+}
+.your{
+  position:relative;
+  left: -20px;
+  top: -20px;
+  height: 50px;
+  font-size: 3.6rem;
+  padding: 0%;
+}
+.career{
+  position: relative;
+  left: -155px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 24px;
+  font-weight:lighter;
+}
+.search-bar{
+  position: relative;
+  top: -320px;
+  left: 200px;
+}
+.search{
+  position: relative;
+  height: 40px;
+  width: 300px;
+  border:1px solid black;
+  border-radius: 10px;
+  left: -35px;
+  
+}
+::placeholder{
+  font-size: large;
+  text-align: center;
+  font-family: 'Lucida Sans',
+   'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn{
+  position: relative;
+  height:40px;
+  width: 70px;
+  top:5px;
+  left: -30px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-size: xx-large;
+  background-color:rgb(77,107,157);
+}
+.down{
+  background-color: rgb(54, 12, 91);
+  position:relative;
+  bottom: 100px;
+  height: 600px;
+}
+.get{
+  position: relative;
+  font-size: 2.7rem;
+  font-family:'Courier New', Courier, monospace;
+  left: -200px;
+  top: 80px;
+  color: rgb(241, 241, 36);
+  font-style: italic;
+}
+.comment{
+  position: relative;
+  left: -240px;
+  top: 100px;
+  color: white; 
+  font-size: 2.5rem;
+  font-style: inherit;
+}
+.comment1{
+  position: relative;
+  left: 118px;
+  top: 20px;
+  color: white; 
+  font-size: 2.5rem;
+  font-style: inherit;
+  text-align: left;
+}
+.phone{
+  position: relative;
+  height: 500px;
+  width: 270px;
+  top: -450px;
+  left: 350px;
+}
+input{
+  font-size: 21px;
+}
+.popular{
+position: relative;
+font-size: 50px;
+text-align: left;
+left: 36px;
+top: 116px;
+color: white;
+}
+.person1{
+  position: relative;
+  border: solid white;
+  border-radius: 20px;
+  border-width: .1px;
+  height: 310px;
+  width: 380px;
+  top:-280px;
+  left: 412px;
+  background-color: rgb(246, 247, 248);
+  cursor: pointer;
+}
+.person1:hover {
+  background-image: linear-gradient(white,#fdc399);
+  border: 1.5px solid rgba(255, 160, 122, 1); /* Light Salmon */
+  border-radius: 20px;
+  padding: 1.5px;
+}
+
+.name1{
+  position: relative;
+  left: -87px;
+  font-size: 17px;
+  color: rgb(165, 163, 163);
+  font-weight: 450;
+  top: 20px;
+}
+.job1{
+  position: relative;
+  left: -40px;
+  font-size: 27px;
+  color: black;
+  font-family:Arial, Helvetica, sans-serif;
+  top: 20px;
+}
+.view1{
+  position: relative;
+  right: 10px;
+  font-size: 19px;
+  top: -60px;
+  text-decoration: none;
+  font-weight:600;
+  color: black;
+  border: solid black;
+  border-width: .1px;
+  border-radius: 15px;
+  padding: 3px 17px;
+  background-color: rgb(233, 230, 230);
+}
+.image1{
+position: relative;
+height: 170px;
+width: 170px;
+left: 44px;
+top: -13px;
+}
+.view1:hover {
+  border-radius: 15px;
+  background-color: orange;
+  border: .5px solid orange;
+  color: white;
+}
+.person2{
+  position: relative;
+  border: solid white;
+  border-radius: 20px;
+  border-width: .1px;
+  height: 310px;
+  width: 380px;
+  top:-590px;
+  left: 815px;
+  background-color: rgb(246, 247, 248);
+  cursor: pointer;
+}
+.name2{
+  position: relative;
+  left: -82px;
+  font-size: 17px;
+  color: rgb(165, 163, 163);
+  font-weight: 450;
+  top: 20px;
+}
+.job2{
+  position: relative;
+  left: -10px;
+  font-size: 27px;
+  color: black;
+  font-family:Arial, Helvetica, sans-serif;
+  top: 22px;
+}
+.view2{
+  position: relative;
+  right: 10px;
+  font-size: 19px;
+  top: -53.5px;
+  text-decoration: none;
+  font-weight:600;
+  color:black;
+  border: solid black;
+  border-width: .1px;
+  border-radius: 15px;
+  padding: 3px 17px;
+  background-color: rgb(233, 230, 230);
+}
+.image2{
+position: relative;
+height: 165px;
+width: 165px;
+left: 45px;
+top: -7px;
+}
+.view2:hover {
+  border: solid blueviolet;
+  border-radius: 15px;
+  background-color:blueviolet;
+  color: white;
+}
+.person2:hover {
+  background-image: linear-gradient(white,rgb(208, 166, 248));
+  border: 1.5px solid blueviolet; /* Light Salmon */
+  border-radius: 20px;
+  padding: 1.5px;
+}
+.person3{
+  position: relative;
+  border: solid white;
+  border-radius: 20px;
+  border-width: .1px;
+  height: 310px;
+  width: 380px;
+  top:-550px;
+  left: 10px;
+  background-color: rgb(246, 247, 248);
+  cursor: pointer;
+}
+.name3{
+  position: relative;
+  left: -87px;
+  font-size: 17px;
+  color: rgb(165, 163, 163);
+  font-weight: 450;
+  top: 20px;
+}
+.job3{
+  position: relative;
+  left: -57px;
+  font-size: 27px;
+  color: black;
+  font-family:Arial, Helvetica, sans-serif;
+  top: 20px;
+}
+.view3{
+  position: relative;
+  right: 20px;
+  font-size: 19px;
+  top: -68px;
+  text-decoration: none;
+  font-weight:600;
+  color: black;
+  border: solid black;
+  border-width: .1px;
+  border-radius: 15px;
+  padding: 3px 17px;
+  background-color: rgb(233, 230, 230);
+}
+.image3{
+  position: relative;
+  height: 177px;
+  width: 150px;
+  left: 44px;
+  top: -21px;
+  }
+  .view3:hover {
+    border-radius: 15px;
+    background-color: red;
+    border: .5px solid red;
+    color: white;
+  }
+  .person3:hover {
+    background-image: linear-gradient(white,rgb(242, 148, 148));
+    border: 1.5px solid red; /* Light Salmon */
+    border-radius: 20px;
+    padding: 1.5px;
+  }
+  .person4{
+    position: relative;
+  border: solid white;
+  border-radius: 20px;
+  border-width: .1px;
+  height: 310px;
+  width: 380px;
+  top:-860px;
+  left: 412px;
+  background-color: rgb(246, 247, 248);
+  cursor: pointer;
+}
+.person4:hover {
+  background-image: linear-gradient(white,rgb(170, 243, 170));
+  border: 1.5px solid green; /* Light Salmon */
+  border-radius: 20px;
+  padding: 1.5px;
+}
+
+.name4{
+  position: relative;
+  left: -87px;
+  font-size: 17px;
+  color: rgb(165, 163, 163);
+  font-weight: 450;
+  top: 20px;
+}
+.job4{
+  position: relative;
+  left: -40px;
+  font-size: 27px;
+  color: black;
+  font-family:Arial, Helvetica, sans-serif;
+  top: 20px;
+}
+.view4{
+  position: relative;
+  right: 10px;
+  font-size: 19px;
+  top: -60px;
+  text-decoration: none;
+  font-weight:600;
+  color: black;
+  border: solid black;
+  border-width: .1px;
+  border-radius: 15px;
+  padding: 3px 17px;
+  background-color: rgb(233, 230, 230);
+}
+.image4{
+  position: relative;
+  height: 175px;
+  width: 140px;
+  left: 44px;
+  top: -18px;
+  }
+  .view4:hover {
+    border-radius: 15px;
+    background-color: rgb(2, 80, 2);
+    border: .5px solid rgb(2, 80, 2);
+    color: white;
+  }
+  .person5{
+    position: relative;
+    border: solid white;
+    border-radius: 20px;
+    border-width: .1px;
+    height: 310px;
+    width: 380px;
+    top:-1170px;
+    left: 815px;
+    background-color: rgb(246, 247, 248);
+    cursor: pointer;
+  }
+  .name5{
+    position: relative;
+    left: -82px;
+    font-size: 17px;
+    color: rgb(165, 163, 163);
+    font-weight: 450;
+    top: 20px;
+  }
+  .job5{
+    position: relative;
+    left: -10px;
+    font-size: 27px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    top: 22px;
+  }
+  .view5{
+    position: relative;
+    right: 10px;
+    font-size: 19px;
+    top: -53.5px;
+    text-decoration: none;
+    font-weight:600;
+    color:black;
+    border: solid black;
+    border-width: .1px;
+    border-radius: 15px;
+    padding: 3px 17px;
+    background-color: rgb(233, 230, 230);
+  }
+  .image5{
+  position: relative;
+  height: 165px;
+  width: 165px;
+  left: 58px;
+  top: -8.5px;
+  }
+  .view5:hover {
+    border: solid blue;
+    border-radius: 15px;
+    background-color:blue;
+    color: white;
+  }
+  .person5:hover {
+    background-image: linear-gradient(white,rgb(135, 206, 235));
+    border: 1.5px solid blue; /* Light Salmon */
+    border-radius: 20px;
+    padding: 1.5px;
+  }
+  .want-hire{
+  position: relative;
+  border: 1px ;
+  border-radius:20px;
+  height: 350px;
+  top:-620px;
+  border-width: .5px;
+  width: 1180px;
+  padding: 2px;
+  left: 20px;
+  background-image: linear-gradient(rgb(237, 255, 255),rgb(228, 250, 250));
+  }
+  .want-name{
+  position: relative;
+  border-radius: 5px;
+  font-size: 20px;
+  padding: 0%;
+  background-color: rgba(255, 251, 251, 0.797);
+  color: rgba(2, 95, 245, 0.668) ;
+  width: 200px;
+  left: 650px;
+  top: 30px;
+  }
+  .want-quote{
+  position: relative;
+  color: rgba(2, 95, 245, 0.668) ;
+  left: 230px;
+  font-size: 50px;
+  top: 45px;
+  font-family: 'Lucida Sans',
+   'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .want-seeker{
+    position: relative;
+    left: 300px;
+    top: 30px;
+    font-size: medium;
+    font-family: 'Lucida Sans',
+   'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .postjob{
+    position: relative;
+    right: 10px;
+    font-size: 23px;
+    top: -270px;
+    text-decoration: none;
+    border: 1px solid rgba(2, 95, 245, 0.668) ;
+    font-weight:600;
+    color: rgba(2, 95, 245, 0.668) ;
+    border-width: 1px;
+    border-radius: 12px;
+    padding: 7px 100px;
+    background-color:white;
+    left: 417px;
+    font-weight: 700;
+  }
+  .postjob:hover{
+    border: rgba(2, 95, 245, 0.668) ;
+    border-radius: 10px;
+    background-color:rgba(2, 95, 245, 0.668) ;
+    color: white;
+  } 
+  .two-people{
+    position: relative;
+    left: -440px;
+    top: -224px;
+  }
+  .background{
+    background-color:rgb(23, 66, 80);
+    top: -150px;
+    position: relative;
+    height: 1300px;
+  }
+  .person{
+    position: relative;
+    top: 120px;
+    padding-bottom: 20px;
+  }
+  .footer{
+    position: relative;
+    height: 280px;
+    width: 1217px;
+    background-color: rgb(43, 36, 86);
+    top: -500px;
+  }
+  .inside-box{
+    position: relative;
+    border:1px solid white;
+    border-radius: 17px;
+    width: 430px;
+    height: 170px;
+    left: 765px;
+    top: 50px;
+    padding: 1px;
+    background-color: white;
+  }
+.inside-fist{
+  position: relative;
+  left: -100px;
+  font-size: 20px;
+  top: 10px;
+}
+.inside-second{
+  position: relative;
+  left: -43px;
+  font-size:16px;
+  top: -6px;
+  font-weight: 400;
+}
+.googleplaystore{
+  position: relative;
+  height: 50px;
+  width: 170px;
+  left: -15px;
+  top: -5px;
+}
+.microsoft{
+  position: relative;
+  height: 49px;
+  width: 160px;
+  left: 15px;
+  top: -5px;
+}
+.social-media{
+  position: relative;
+  left: -400px;
+  color: white;
+  top: -100px;
+  font-weight: 490;
+  font-size: 23px;
+}
+.twitter{
+  position: relative;
+  height: 35px;
+  width: 35px;
+  top: -105px;
+  left: -440px;
+}
+.facebook{
+  position: relative;
+  height: 35px;
+  width: 35px;
+  top: -105px;
+  left: -420px;
+}
+.instagram{
+  position: relative;
+  height: 35px;
+  width: 35px;
+  top: -105px;
+  left: -400px;
+}
+.youtube{
+  position: relative;
+  height: 35px;
+  width: 40px;
+  top: -105px;
+  left: -380px;
+}
+.hr{
+  position: relative;
+  color: white;
+  top: -110px;
+  width: 510px;
+  left: -290px;
+}
+@media (max-width: 768px) {
+  /* CSS rules for smaller screens */
+}
+
+@media (min-width: 769px) {
+  /* CSS rules for larger screens */
+}

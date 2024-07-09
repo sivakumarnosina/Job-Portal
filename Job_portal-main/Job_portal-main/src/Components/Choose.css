@@ -1,0 +1,46 @@
+.why{
+    margin-top: 0px;
+    background-color:white
+}
+.content{
+    margin-right: 200px;
+}
+.us{
+    font-size: 30px;
+    margin-bottom: 12px;
+    color: #00bf58;
+    font-weight: 500;
+    margin-top: 70px;
+}
+.at{
+    font-size: 50px;
+    color: #005025;
+    line-height: 1.062em;
+    font-weight: 500;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-bottom: 30px;
+    
+
+}
+.seam{
+    margin-top: 40px;
+    margin-right: 600px;
+    margin-left:20px;
+    color:#005025;
+
+}
+.screen{
+    margin-right: 180px;
+    height:600px;
+    width:600px;
+    position:relative;
+    right:150px;
+    margin-top: 5px;
+}
+Container{
+    container: fluid 100%;
+}

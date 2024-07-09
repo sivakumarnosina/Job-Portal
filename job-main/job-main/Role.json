@@ -1,0 +1,46 @@
+[
+    {
+        "id":1,
+        "name":"Python"
+    },
+    {
+        "id":2,
+        "name":"Python developer"
+    },
+    {
+        "id":3,
+        "name":"Java developer"
+    },
+    {
+        "id":4,
+        "name":"Devops"
+    },
+    {
+        "id":5,
+        "name":"Testing"
+    },
+    {
+        "id":6,
+        "name":"Web designer"
+    },
+    {
+        "id":7,
+        "name":"Aws"
+    },
+    {
+        "id":8,
+        "name":"junior python developer"
+    },
+    {
+        "id":9,
+        "name":"React developer"
+    },
+    {
+        "id":10,
+        "name":"Django developer"
+    }
+    
+
+    
+
+]

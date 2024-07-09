@@ -1,0 +1,103 @@
+.App {
+  text-align: center;
+ 
+  
+
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.card{
+ align-items: center;
+ background-image: url(middle.png);
+ 
+ 
+  
+  
+}
+.form-group{
+ color:black;
+ font-size: large;
+ text-align: left;
+ 
+}
+.container{
+  border-radius: 20px;
+}
+.card-footer{
+ margin: 10px;
+ align-content: left;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  flex-direction: column;
+  text-align: left;
+  justify-content: left;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.errmsg{
+  color:red;
+}
+.app-check{
+  height:20px;
+  width:20px;
+ 
+}
+
+.main{
+  position: relative;
+  bottom:400px;
+}
+
+::placeholder{
+  text-align: left;
+}
+.btn{
+   width:100px;
+}
+.reg1{
+  text-decoration: none;
+  position: relative;
+  right:250px;
+}
+.eye{
+  position: relative;
+  left:400px;
+  bottom:35px;
+  color:black;
+  border-color: white;
+  background-color: white;
+ 
+
+}
+.ey{
+  width:20px;
+  height: 20px;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+

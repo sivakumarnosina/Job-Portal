@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+}
+.h{
+    font-size: 40px;
+    font-weight: 400;
+    color: #244034;
+    line-height: 1.041em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center!important;
+}
+.sign{
+    color:#31795a;
+    font-size:25px;
+}
+.pass{
+    margin-top: 30px;
+}
+.reg3{
+    text-decoration: none;
+    
+    }
+.for{
+    position: relative;
+    right:150px;
+    bottom:30px;
+}    
+.log{
+    color:white;
+    background-color: rgb(86, 86, 246);
+    font-size: 20px;
+    border:1px solid white;
+    border-radius: 3px;
+    padding:5px 20px;
+}
+#ll{
+    margin-bottom: 30px;
+}

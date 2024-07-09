@@ -1,0 +1,128 @@
+.pic{
+    background-image: url(banner1.jpg);
+    background-size: cover;
+    height:100vh;
+}
+.left-content,
+.right-content {
+  padding: 20px; 
+  height: 100%;
+  margin-top: 60px;
+}
+.left{
+    color: #fff;
+    font-weight: bold;
+    line-height: 1.15em;
+    letter-spacing: -1px;
+    font-size: 50px;
+   
+}
+.para{
+    font-size: 25px;
+    text-align: center !important;
+    font-weight: 400;
+    color:whitesmoke;
+}
+.look{
+    border: 1px solid black;
+    color:black;
+    font-family: 15px;
+    padding:15px;
+    border-radius: 10px;
+    background-color: rgb(255, 250, 236);
+    font-size: 20px;
+}
+.look:hover{
+    background-color: #254035;
+}
+.hire{
+    border: 1px solid black;
+    color:white;
+    font-family: 15px;
+    padding:15px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-left: 10px;
+    background-color: #00bf58;;
+}
+.hire:hover{
+    background-color: #254035;
+}
+.m{
+    margin-top: 30px;
+}
+.down{
+    margin-top: 50px;
+    background-color: #254035;
+}
+.p{
+    color:#fff;
+    margin-right: 1100px;
+    margin-top: 60px;
+}
+.footer {
+    background-color: #254035;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  /* YourComponent.css */
+
+.footer {
+    background-color:#254035; ;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    margin-top: 10px;
+    position:relative;
+   right:50px;
+  
+  }
+  
+  .footer-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+   
+  }
+  
+  .footer-list li {
+    margin: 15px 10px;
+    
+  }
+  .ser{
+    font-size: 20px;
+    margin-bottom: 30px;
+
+  }
+  .pp{
+    margin-right: 1150px;
+    position:relative;
+    top:100px;
+    color:#fff; 
+  }
+  .pri{
+    margin-right: 1000px;
+    margin-top: 80px;
+    margin-bottom: -18px;
+  }
+  .whatsapp{
+    width:20px;
+    height:20px;
+    margin-left: 10px;
+    position:relative;
+    left:400px;
+    bottom:40px;
+  }
+  container{
+    container: fluid 100%;
+}
+  
+  

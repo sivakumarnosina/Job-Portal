@@ -1,0 +1,46 @@
+[
+    {
+        "id":1,
+        "name":"Hyderabad"
+    },
+    {
+        "id":2,
+        "name":"Banglore"
+    },
+    {
+        "id":3,
+        "name":"Chennai"
+    },
+    {
+        "id":4,
+        "name":"Tamilnadu"
+    },
+    {
+        "id":5,
+        "name":"Tiruvananthapuram"
+    },
+    {
+        "id":6,
+        "name":"Madurai"
+    },
+    {
+        "id":7,
+        "name":"Kurnool"
+    },
+    {
+        "id":8,
+        "name":"Tirupati"
+    },
+    {
+        "id":9,
+        "name":"vizag"
+    },
+    {
+        "id":10,
+        "name":"Vijayawada"
+    }
+    
+
+    
+
+]

@@ -1,0 +1,63 @@
+.mov{
+    margin-top: 80px;
+    color:#005025;
+    text-align: left;
+    margin-left: 100px;
+}
+.img{
+    border:1px solid #f2f8f4;
+    border-radius: 10px;
+}
+.img:hover{
+    text-shadow: #35764b;
+}
+
+.fade-container {
+    position: relative;
+  }
+  
+  .fade-container:hover .img {
+    opacity: 0.5; /* Adjust the opacity level during hover */
+  }
+  
+  .img {
+    transition: opacity 0.3s ease; /* Adjust the duration and timing function as needed */
+  }
+  .caption {
+    position:relative;
+    left:150px;
+    top:20px;
+    color:#35764b;
+    font-size: 18px;
+    font-weight: 500;
+    font-family:var(--gorditas-font);
+    transform: translate(-50%, -50%);
+    transition: opacity 0.3s ease; 
+  }
+  .fade-container:hover .caption {
+    opacity: 0.5;
+  }
+  
+  .trend {
+    margin-top: 50px;
+    overflow: hidden;
+  }
+  
+  .scrolling-row {
+    white-space: nowrap;
+    overflow: hidden;
+    animation: scrollingAnimation 40s linear infinite; /* Adjust the duration as needed */
+  }
+  
+  @keyframes scrollingAnimation {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  Container{
+    container: fluid 100%;
+}
+  

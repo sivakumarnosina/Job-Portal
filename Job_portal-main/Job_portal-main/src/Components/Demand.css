@@ -1,0 +1,114 @@
+.most{
+    margin-top: 50px;
+    text-align: left;
+    position: relative;
+    left:200px;
+}
+.ui1{
+    color:#35764b;
+    font-size: 18px;
+    font-weight: 500;
+    border: 1px solid #f2f8f4;
+    border-radius: 50px;
+    background:rgb(234, 251, 253);
+    text-decoration: none;
+    padding:12px 20px;
+    font-family:var(--gorditas-font);
+    margin-left: 90px;
+}
+.ui1:hover{
+    border:1px solid #35764b;
+    
+}
+.ui2{
+    background: rgb(255, 250, 236);
+    color:#35764b;
+    font-size: 18px;
+    font-weight: 500;
+    border: 1px solid #f2f8f4;
+    border-radius: 50px;
+    text-decoration: none;
+    padding:12px 20px;
+    font-family:var(--gorditas-font);
+    margin-right: 40px;
+
+
+}
+.ui2:hover{
+    border:1px solid #35764b;
+
+}
+.ui3{
+    background: rgb(255, 235, 251);
+    color:#35764b;
+    font-size: 18px;
+    font-weight: 500;
+    border: 1px solid #f2f8f4;
+    border-radius: 50px;
+    text-decoration: none;
+    padding:12px 20px;
+    font-family:var(--gorditas-font);
+    margin-right:80px;
+}
+.ui3:hover{
+    border:1px solid #35764b;
+
+}
+.ui4{
+    background: rgb(232, 247, 233);
+    color:#35764b;
+    font-size: 18px;
+    font-weight: 500;
+    border: 1px solid #f2f8f4;
+    border-radius: 50px;
+    text-decoration: none;
+    padding:12px 20px;
+    font-family:var(--gorditas-font);
+    margin-right:115px;
+
+}
+.ui4:hover{
+    border:1px solid #35764b;
+
+}
+.ui5{
+    background: rgb(247, 245, 255);
+    color:#35764b;
+    font-size: 18px;
+    font-weight: 500;
+    border: 1px solid #f2f8f4;
+    border-radius: 50px;
+    text-decoration: none;
+    padding:12px 20px;
+    font-family:var(--gorditas-font);
+    margin-right:140px;
+}
+.ui5:hover{
+    border:1px solid #35764b;
+
+}
+.container1{
+    margin-top: 50px;
+    
+}
+.ui12{
+    color:#35764b;
+    font-size: 18px;
+    font-weight: 500;
+    border: 1px solid #f2f8f4;
+    border-radius: 50px;
+    background:rgb(234, 251, 253);
+    text-decoration: none;
+    padding:12px 20px;
+    font-family:var(--gorditas-font);
+    position:relative;
+    left:400px;
+    bottom:20px;
+}
+.ui12:hover{
+    border:1px solid #35764b;
+    
+}
+.container{
+    container: fluid 100%;
+}
